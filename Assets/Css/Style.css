@@ -14,8 +14,8 @@ body{
     font-weight: bold;
     background-image: url(../Images/Test.webp);
     background-size: cover;
-    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .sunny{
